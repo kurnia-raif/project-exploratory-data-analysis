@@ -1,6 +1,6 @@
 # project-exploratory-data-analysis
 ## Background problem
-Pada bagian ini silahkan bisa menjelaskan bancground problem yang ada pada project anda. Jelaskan Situation (problem2nya) dan juga berkaitan dengan Task (tujuan, goals, yang mau dicapai dan dikerjai)
+Pada bagian ini silahkan bisa menjelaskan bancground problem yang ada pada project anda. Jelaskan Situation (problem2nya) dan juga berkaitan dengan Task (tujuan, goals, yang mau dicapai dan dikerjai). Dashboard memiliki jumlah memori yang besar dan juga datasetnya juga beasr, alhasil saya taruh pada link berikut : link_drive
 
 ## Version Libraries
 - pandas v1
